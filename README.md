@@ -1,40 +1,21 @@
-# CSEKU_SDP_2017_Notice_Board
-Project Title : Notice Board
-
-Project Description:
-	Programming Language:  Java & PHP
-	Database            :  Mysql
-
-Project Manager :  Dr. Kazi Masudul Alam
-	                    Associate Professor
-                    Computer Science & Engineering Discipline
-	                    Khulna University, Khulna, Bangladesh 		    
-				    &
-		    Dr. Manishankar Mondal
-		    Assistant Professor
-		    Computer Science & Engineering Discipline
-		    Khulna University, Khulna, Bangladesh
-
-
-Developed By: 
-		Fazzla Rabby (140210)
-		Md. Abdul Lotif (160212) 
-		Saimum Islam (160227)
-
-Project Full Description:
-**Post notice in varsity level :  which will get all the students of the varsity posted by varsity admin
-**post notice in discipline level: which will get all the students of the discipline posted by discipline admin
-**post notice in batch level: which is only for my batch type and  will get all the students of the batch posted by the batch every user
-**post notice for the subscriber: which will get all the subscriber
-**Notice can attach file only by batch admin,discipline admin,varsity admin
-**all notice posted by user needs approval of admin
-**admin can approve or delete the notice
-**admin can see the approved notice
-** user can see new notice and old notice;
-**user can  also add notice to favourite
-**user can edit their own notice and  delete notice
-** user can subscribe other batch for all type notice
-**discipline admin can select the batch admin and delete users
-** varsity admin can see the discipline under it and create new discipline
-** any varsity can use it only make their own database
-
+Title: Notice Board Application
+Developed by:
+Waseem Akhtar 
+M bilal
+Description of Project
+Presently handheld devices such as smartphones are using very huge. We are using them to
+ease our daily life. Notice Board is one of the best medium to communicate with mass
+audience. Many state of the art universities around the world rely on wooden notice board
+hanging on the wall to display announcements. The older ways is not so convenient and
+handy for the students, as they have to spare some time and go to have a look on the notice
+board everyday to check latest announcements and updates. So here is a need to update the
+way we use to see the announcements/notifications.
+Our Notice Board Application is an e-mail based and android driven application system,
+designed to improve the noticing process by using e-mail. This will save the time of students
+and will provide them convenience by providing latest updates and notifications from the
+university through e-mail.
+The admin can add new notifications which will be instantly uploaded to the server and
+students can see them after login to the application and some specific notifications though
+e-mail on their smartphones or other devices. This will help in decreasing the ambiguity
+which students face due to lack of proper communication from CR/GR as they might forget
+to convey the message or maybe they convey the message late due to any certain reason.
